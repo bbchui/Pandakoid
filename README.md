@@ -2,7 +2,7 @@
 
 [Live][pandakoid]
 
-[pandakoid]: bbchui.github.io
+[pandakoid]: https://bbchui.github.io/
 
 Pandakoid is a browser-based game inspired by the arcade classic **_Arkanoid_**. The goal is to destroy all the blocks on the screen before the panda ball hits the ground.
 
