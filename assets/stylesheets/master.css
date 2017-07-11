@@ -81,6 +81,22 @@ section {
   font-weight: bold;
 }
 
+#next-level {
+  position: absolute;
+  width: 900px;
+  height: 600px;
+  margin: auto;
+  top: 0px;
+  visibility: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 90px;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+}
+
 .title {
   font-size: 80px;
   display: flex;
